@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Michroma&display=swap");
+
+body{
+    font-family: sans-serif;
+  background: linear-gradient(90deg, #bac8f4 0%, #ffffff 100%);
+}
+.nav-link {
+
+color: rgb(7, 102, 21);    
+}
+
+.navbar-nav .nav-link.active{
+
+    color: blue;
+}
+
+.navbar-brand img{
+    width: 120px;
+}
+
+
+
+
+a[href*="http"] {
+  background: url("static\files\icons8-external-link-26.png") no-repeat 100% 0;
+  background-size: 16px 16px;
+  padding-right: 19px;
+}
+
+.pravoruch{
+  background: linear-gradient(90deg, #bac8f4 0%, #ffffff 100%);   
+}
+
+.cena {
+  color: crimson;
+}
