@@ -42,16 +42,19 @@ a {
    letter-spacing: 1px;
    margin: 0 20px;
    font-size: 18px;
-   font-family: 'Fredoka One', cursive; */
+   /* font-family: 'Fredoka One', cursive; */ */
    transition: .3s ease-in-out;
 }
 
 .s3 {
-   color: #7b4a39;
+   color: #3e251d;
    border: 2px solid transparent;
 }
 .s3:hover {
-   border: 2px solid #BA7D67;
+   border: 2px solid #ccf8cf;
+   border-radius: 2px;
+   
+   background-color: #c6f4cb;
 }
 
 .link_style {
