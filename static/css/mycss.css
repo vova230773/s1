@@ -2,7 +2,7 @@
 
 body{
     font-family: sans-serif;
-  background: linear-gradient(90deg, #bac8f4 0%, #ffffff 100%);
+  background: linear-gradient(90deg, #bbcfe0 0%, #ffffff 100%);
 }
 .nav-link {
 
@@ -28,7 +28,7 @@ a[href*="http"] {
 }
 
 .pravoruch{
-  background: linear-gradient(90deg, #bac8f4 0%, #ffffff 100%);   
+ background: linear-gradient(90deg, #bbcfe0 0%, #ffffff 100%);
 }
 
 .cena {
@@ -36,7 +36,7 @@ a[href*="http"] {
 }
 
 a {
-   text-decoration: none;
+   /* text-decoration: none; */
    display: inline-block;
    padding: 5px 10px;
    letter-spacing: 1px;
@@ -47,13 +47,13 @@ a {
 }
 
 .s3 {
-   color: #3e251d;
+   color: #2a00e7;
    border: 2px solid transparent;
 }
 .s3:hover {
    border: 2px solid #ccf8cf;
    border-radius: 2px;
-   
+   color: #704255;
    background-color: #c6f4cb;
 }
 
